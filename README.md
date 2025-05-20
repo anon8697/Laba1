@@ -18,19 +18,6 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-Структура отчета
-
-- Данные о работе: название работы, фио, группа, выполненные задания.
-- Цель работы.
-- Задание 1.
-- Код реализации выполнения задания. Визуализация результатов выполнения (если применимо).
-- Задание 2.
-- Код реализации выполнения задания. Визуализация результатов выполнения (если применимо).
-- Задание 3.
-- Код реализации выполнения задания. Визуализация результатов выполнения (если применимо).
-- Выводы.
-- ✨Magic ✨
-
 ## Цель работы
 Ознакомиться с основными операторами зыка Python на примере реализации линейной регрессии.
 
@@ -39,7 +26,8 @@
 #### Ход работы:
 - Установка Anaconda и запуск Jupyter Notebook
 - Вывод Hello World
-- ![chrome_xu0y0C41eN](https://github.com/user-attachments/assets/95233f6e-9d9e-4b72-a3a4-b3e4d401d935)
+####
+ ![chrome_xu0y0C41eN](https://github.com/user-attachments/assets/95233f6e-9d9e-4b72-a3a4-b3e4d401d935)
 
 
 ## Задание 2.
@@ -62,7 +50,8 @@ public class Hello : MonoBehaviour
 ```
 - Для вывода сообщения в консоль добавляем файл со скриптом в инспектор любого объекта проекта
 #### Результат:
-- ![Unity_yewV7zmQKU](https://github.com/user-attachments/assets/b7451659-de59-4e9a-9126-4665baf32a65)
+####
+ ![Unity_yewV7zmQKU](https://github.com/user-attachments/assets/b7451659-de59-4e9a-9126-4665baf32a65)
    
 ## Задание 3
 ### Оформить отчет в виде документации на github (markdown-разметка).
