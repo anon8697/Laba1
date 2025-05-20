@@ -1,16 +1,13 @@
-# АНАЛИЗ ДАННЫХ И ИСКУССТВЕННЫЙ ИНТЕЛЛЕКТ [in GameDev]
+# АНАЛИЗ ДАННЫХ В РАЗРАБОТКЕ ИГР. ЛАБОРАТОРНАЯ РАБОТА 1.
 Отчет по лабораторной работе #1 выполнил:
 - Молодняков Ярослав Олегович
 - РИ231103
-Отметка о выполнении заданий (заполняется студентом):
 
 | Задание | Выполнение | Баллы |
 | ------ | ------ | ------ |
 | Задание 1 | * | 60 |
 | Задание 2 | * | 20 |
 | Задание 3 | * | 20 |
-
-знак "*" - задание выполнено; знак "#" - задание не выполнено;
 
 Работу проверили:
 - к.т.н., доцент Денисов Д.В.
@@ -39,18 +36,18 @@
 
 ## Задание 1.
 ### Написать программу Hello World на Python с запуском в Jupiter Notebook.
-Ход работы:
+#### Ход работы:
 - Установка Anaconda и запуск Jupyter Notebook
 - Вывод Hello World
-![chrome_xu0y0C41eN](https://github.com/user-attachments/assets/95233f6e-9d9e-4b72-a3a4-b3e4d401d935)
+- ![chrome_xu0y0C41eN](https://github.com/user-attachments/assets/95233f6e-9d9e-4b72-a3a4-b3e4d401d935)
 
 
 ## Задание 2.
 ### Написать программу Hello World на C# с запуском на Unity. 
-Ход работы:
+#### Ход работы:
 - Установка Unity и Visual Studio Code
 - Создаём папку scripts в папке assets. В ней нажимаем ПКМ -> create -> MonoBehaviour Script. Открываем в редакторе
-- Для вывода Hello World в консоль Unity используем класс Debug с методом Log
+- Для вывода "Hello World" в консоль Unity используем класс Debug с методом Log
 
 ```C#
 using UnityEngine;
@@ -64,8 +61,8 @@ public class Hello : MonoBehaviour
 }
 ```
 - Для вывода сообщения в консоль добавляем файл со скриптом в инспектор любого объекта проекта
-  Результат:
-![Unity_yewV7zmQKU](https://github.com/user-attachments/assets/b7451659-de59-4e9a-9126-4665baf32a65)
+#### Результат:
+- ![Unity_yewV7zmQKU](https://github.com/user-attachments/assets/b7451659-de59-4e9a-9126-4665baf32a65)
    
 ## Задание 3
 ### Оформить отчет в виде документации на github (markdown-разметка).
